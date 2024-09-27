@@ -1,0 +1,12 @@
+names:
+- Coffee Mug
+nc: 1
+roboflow:
+  license: CC BY 4.0
+  project: coffee-mug-detection-lzd4w
+  url: https://universe.roboflow.com/seluk-niversitesi/coffee-mug-detection-lzd4w/dataset/1
+  version: 1
+  workspace: seluk-niversitesi
+test: test/images
+train: train/images
+val: valid/images
